@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-health-check",
+  "name": "nodejs-health-check-redhat",
   "version": "1.1.0",
   "author": "Red Hat, Inc.",
   "license": "Apache-2.0",
@@ -26,12 +26,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/bucharest-gold/nodejs-health-check.git"
+    "url": "git://github.com/bucharest-gold/nodejs-health-check-redhat.git"
   },
   "bugs": {
-    "url": "https://github.com/bucharest-gold/nodejs-health-check/issues"
+    "url": "https://github.com/bucharest-gold/nodejs-health-check-redhat/issues"
   },
-  "homepage": "https://github.com/bucharest-gold/nodejs-health-check",
+  "homepage": "https://github.com/bucharest-gold/nodejs-health-check-redhat",
   "devDependencies": {
     "coveralls": "^3.0.0",
     "eslint": "~4.16.0",
