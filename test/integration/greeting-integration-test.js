@@ -11,7 +11,7 @@ const packagejson = require('../../package.json');
 
 const testEnvironment = rhoaster({
   deploymentName: packagejson.name,
-  dockerImage: 'registry.access.redhat.com/rhoar-nodejs/nodejs-8'
+  dockerImage: 'registry.access.redhat.com/rhoar-nodejs/nodejs-10'
 });
 
 testEnvironment.deploy()
