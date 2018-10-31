@@ -45,12 +45,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/bucharest-gold/nodejs-health-check-redhat.git"
+    "url": "git://github.com/nodeshift-starters/nodejs-health-check-redhat.git"
   },
   "bugs": {
-    "url": "https://github.com/bucharest-gold/nodejs-health-check-redhat/issues"
+    "url": "https://github.com/nodeshift-starters/nodejs-health-check-redhat/issues"
   },
-  "homepage": "https://github.com/bucharest-gold/nodejs-health-check-redhat",
+  "homepage": "https://github.com/nodeshift-starters/nodejs-health-check-redhat",
   "devDependencies": {
     "coveralls": "^3.0.0",
     "js-yaml": "^3.10.0",
