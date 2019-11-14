@@ -10,8 +10,7 @@ const setTimeoutPromise = util.promisify(setTimeout);
 const packagejson = require('../../package.json');
 
 const testEnvironment = rhoaster({
-  deploymentName: packagejson.name,
-  dockerImage: 'registry.access.redhat.com/rhscl/nodejs-10-rhel7'
+  deploymentName: packagejson.name
 });
 
 testEnvironment.deploy()
