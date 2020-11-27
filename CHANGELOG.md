@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.0.0](https://github.com/nodeshift-starters/nodejs-health-check-redhat/compare/v3.0.1...v4.0.0) (2020-11-27)
+
+
+### Bug Fixes
+
+* package.json & package-lock.json to reduce vulnerabilities ([#96](https://github.com/nodeshift-starters/nodejs-health-check-redhat/issues/96)) ([cee5e3d](https://github.com/nodeshift-starters/nodejs-health-check-redhat/commit/cee5e3dba19d97d03fe6a6eadd92e82becd49025))
+* package.json & package-lock.json to reduce vulnerabilities ([#98](https://github.com/nodeshift-starters/nodejs-health-check-redhat/issues/98)) ([de7df3a](https://github.com/nodeshift-starters/nodejs-health-check-redhat/commit/de7df3aec4e6229901df6e6584a00da2055e0188))
+* upgrade coveralls from 3.0.9 to 3.0.11 ([#92](https://github.com/nodeshift-starters/nodejs-health-check-redhat/issues/92)) ([5b23451](https://github.com/nodeshift-starters/nodejs-health-check-redhat/commit/5b234519b4db7ca052c9ad0ee7fad7b9ca667d23))
+* upgrade debug from 4.1.1 to 4.2.0 ([#94](https://github.com/nodeshift-starters/nodejs-health-check-redhat/issues/94)) ([44680ce](https://github.com/nodeshift-starters/nodejs-health-check-redhat/commit/44680ce5dc95382e2e110467894df3e07c9780e3))
+
 ### [3.0.1](https://github.com/nodeshift-starters/nodejs-health-check-redhat/compare/v3.0.0...v3.0.1) (2020-04-27)
 
 ## [3.0.0](https://github.com/nodeshift-starters/nodejs-health-check-redhat/compare/v2.0.3...v3.0.0) (2020-01-24)
